@@ -70,7 +70,7 @@ The computational core is based on a two-stage data processing algorithm:
 The measured signal is described by the model:
 
 <img width="879" height="156" alt="Mathematical model" src="https://github.com/user-attachments/assets/5b6341a8-fc67-43ab-b417-a0cbc51aba53" />
-
+Where A is the total amplitude, pi is the fraction of the component, T2 is the relaxation time, and B is the displacement
 
 ## Features
 
