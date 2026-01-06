@@ -5,7 +5,8 @@
 
 Ссылка на скачивание: https://drive.google.com/drive/folders/18Y2yvi7775m9-ZTp07OsHrJVgGfg6kIe?usp=drive_link
 
-<img width="1497" height="975" alt="image" src="https://github.com/user-attachments/assets/a3a21c4a-1235-4593-8ace-5bd8a5b6ec89" />
+<img width="1920" height="1028" alt="image" src="https://github.com/user-attachments/assets/0dfc2845-836a-4057-a5d4-c94260c32c6e" />
+
 
 
 ## Методология анализа
@@ -51,8 +52,6 @@ This software performs quantitative analysis of NMR relaxation data. The core fu
 
 **Download link:**  
 https://drive.google.com/drive/folders/18Y2yvi7775m9-ZTp07OsHrJVgGfg6kIe?usp=drive_link
-
-<img width="1497" height="975" alt="Application interface" src="https://github.com/user-attachments/assets/a3a21c4a-1235-4593-8ace-5bd8a5b6ec89" />
 
 
 ## Methodology
