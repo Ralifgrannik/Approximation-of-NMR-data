@@ -5,7 +5,7 @@
 
 Ссылка на скачивание: https://drive.google.com/drive/folders/18Y2yvi7775m9-ZTp07OsHrJVgGfg6kIe?usp=drive_link
 
-<img width="1501" height="974" alt="image" src="https://github.com/user-attachments/assets/ca81c999-1a0d-4d93-a249-1c961d4100ab" />
+<img width="1497" height="975" alt="image" src="https://github.com/user-attachments/assets/a3a21c4a-1235-4593-8ace-5bd8a5b6ec89" />
 
 
 ## Методология анализа
